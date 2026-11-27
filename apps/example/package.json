@@ -10,7 +10,7 @@
     "@slashsuite/toggleslash-sdk-browser": "workspace:*"
   },
   "devDependencies": {
-    "@types/bun": "1.4.4",
-    "vitest": "5.1.0"
+    "@types/bun": "1.4.5",
+    "vitest": "5.1.1"
   }
 }
